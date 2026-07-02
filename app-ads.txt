@@ -1,0 +1,14 @@
+# app-ads.txt for Beijing Jiyou Decoration Engineering Co., Ltd
+# Mobile Application Advertising Configuration
+
+# This file is used by ad networks to verify ad inventory ownership
+# Add your ad network publisher IDs below
+
+# Example format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# facebook.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+# applovin.com, XXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+# unity.com, XXXXXXXXXXX, DIRECT
+# ironsource.com, XXXXXXXXXXX, DIRECT
+# mopub.com, XXXXXXXXXXX, DIRECT
+# vungle.com, XXXXXXXXXXX, DIRECT
